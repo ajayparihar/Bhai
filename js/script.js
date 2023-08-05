@@ -1,14 +1,7 @@
 // Array of prewritten words
-const words = [
-    "Friend", "Buddy", "Pal", "Companion", "Sibling", "Bestie", "Mate",
-    "Chum", "Confidant", "Amigo", "Sidekick", "Ally", "Homie", "Comrade",
-    "BFF", "Cohort", "Soulmate", "Partner-in-crime",
-    "Confidante", "Kindred spirit",
-    "Bae", "Bro", "Sister", "Homie", "Partner", "Playmate",
-    "Fellow", "Acquaintance", "Alter ego", "Blood brother", "Pen pal",
-    "Classmate", "Roommate", "Teammate", "Wingman", "Supporter",
-    "Beloved", "Neighbor", "Cousin"
-];
+const words = [    "Bhai",    "Yaar",    "Dost",    "Chaddi Buddy",    "Sakha",    "Bhaijan",    "Billa",    "Saanp",    "Gandu",    "Bantai",    "Bakland",    "Langotiya Yaar",    "Suar",    "Kamina",    "Bhidu",    "Chodu",    "Sathi",    "Chutiya",    "Chela",    "Harami",  "Mitr"]
+;
+
 
 // Create an Audio object with the audio file path
 const audio = new Audio("Aud/aud.wav");
